@@ -1,6 +1,6 @@
 # By Maruja e-commerce
 
-This project is an e-commerce built for `by maruja`.
+This project is an e-commerce built for `by JoaqPeralta`.
 
 ## Tech Stack
 
